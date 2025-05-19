@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "API SPPD Dinkes",
+  "description": "API SIJAKA Dinkes",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
